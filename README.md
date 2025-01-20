@@ -15,3 +15,7 @@ Key Metrics:
 
 Total Budget: 161.93 billion (sum of all budgets).
 Total Revenue: 671.09 billion (sum of global revenues).
+Average Score by Movies: A horizontal bar chart showing the average IMDB scores for specific movies.
+
+Sum of Revenue by Country: A geographical map indicating the total revenue by country, with notable contributions from North America, Europe, and Asia.
+This dashboard combines data visualizations to provide a comprehensive overview of movie production, revenue, budget trends, and audience preferences, making it a valuable tool for stakeholders in the film industry.
