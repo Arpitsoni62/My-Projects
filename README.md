@@ -1,4 +1,4 @@
-# Power-BI-project
+# imdb_movies
 Power BI Project: IMDB Movies Dashboard
 
 This Power BI dashboard provides an interactive and visual analysis of data related to IMDB movies. It highlights key metrics and trends across several dimensions, offering insights into the global movie industry. Below are the main components of the dashboard:
